@@ -2,7 +2,7 @@
 
 Name:		drupal-wysiwyg-tinymce
 Summary:	TinyMCE editor for Drupal Wysiwyg module
-Version:	3.5.0.1
+Version:	3.5.6
 Release:	1
 License:	LGPLv2.1
 Group:		Networking/WWW
