@@ -33,3 +33,14 @@ rm %{buildroot}%{_var}/www/drupal//sites/all/libraries/%{oname}/*.txt
 %files
 %{_var}/www/drupal//sites/all/libraries/%{oname}
 %doc changelog.txt
+
+
+%changelog
+* Thu Aug 09 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 3.5.6-1
++ Revision: 813315
+- update to 3.5.6
+
+* Fri May 11 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 3.5.0.1-1
++ Revision: 798318
+- imported package drupal-wysiwyg-tinymce
+
