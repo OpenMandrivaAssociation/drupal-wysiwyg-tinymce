@@ -6,7 +6,7 @@ Version:	7.3.0
 Release:	1
 License:	LGPLv2.1
 Group:		Networking/WWW
-URL:		http://www.tinymce.com/
+URL:		https://www.tinymce.com/
 Source0:	https://github.com/tinymce/tinymce/archive/refs/tags/%{version}.tar.gz
 Requires:	drupal-wysiwyg
 Provides:	drupal-wysiwyg-editor
